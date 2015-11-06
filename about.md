@@ -16,7 +16,7 @@ Iron Mountain
 [ShipShow Podcast](http://theshipshow.com)
 
 ##Education
-M.S. [Software Engineering](http://www.cogsci.ucsd.edu/), DePaul University
+M.S. [Software Engineering](http://www.cdm.depaul.edu/academics/Pages/MSInSoftwareEngineering.aspx), DePaul University
 
 B.A. [Cognitive Science](http://www.cogsci.ucsd.edu/), University of California San Diego
 
