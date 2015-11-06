@@ -6,9 +6,9 @@ profile: true
 ##Notable companies I've worked for
 ServiceNow 
 
-ID Analytics
+LifeLock
 
-VoloForce 
+Meredith Corporation
 
 Iron Mountain
 
