@@ -5,7 +5,7 @@ date: '2011-12-21T21:48:00-08:00'
 tags: []
 tumblr_url: http://www.buildscientist.com/post/14604558920/implementing-database-change-management
 ---
-###Continuous integration. I’m practically in *love* with the concept. 
+### Continuous integration. I’m practically in *love* with the concept. 
 
 I’ll never forget the first time I read Martin Fowler’s infamous [article](http://www.martinfowler.com/articles/continuousIntegration.html) on the topic. I was dazzled - I was amazed - it all made *perfect* sense. 
 
@@ -14,6 +14,7 @@ The first opportunity I got I wanted to implement end to end CI. As I started to
 This is one of many perspectives I have on the topic …
 
 A key component to having true continuous integration of your builds is implementing database change management (DBCM). Loosely defined it is: 
+
 > The process by which changes made to a database are tracked and version controlled over a period of time.
 
 Most development shops tend to overlook DBCM for a number of reasons:

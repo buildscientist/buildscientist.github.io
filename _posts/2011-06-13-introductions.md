@@ -5,7 +5,7 @@ date: '2011-06-13T22:37:00-07:00'
 tags: []
 tumblr_url: http://www.buildscientist.com/post/6513815111/introductions
 ---
-###Many of you may be wondering how I came up with the term “buildscientist”. 
+### Many of you may be wondering how I came up with the term “buildscientist”. 
 Truth be told this was a title given to me by a friend and former work colleague. Though in retrospect I can remember being curious about an applications build process from an early age.
 
 My foray into the science of builds started as a late teenager when I attempted to build SSH v1.x by Tectia (formerly known as SSH Communications Security) on a box with the following specs: 

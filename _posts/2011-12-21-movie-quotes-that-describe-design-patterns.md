@@ -7,13 +7,14 @@ tumblr_url: http://www.buildscientist.com/post/14601336683/movie-quotes-that-des
 ---
 
 Design Pattern: Singleton
-> “There can only be one” - The Highlander
+
+> “There can be only one” - The Highlander
 
 Design Pattern: Builder or Factory
+
 > “If you build it he will come” - Field of Dreams
 
 
 Design Pattern: Facade
+
 > “The greatest trick the Devil ever pulled was convincing the world he didn’t exist” - The Usual Suspects
-
-

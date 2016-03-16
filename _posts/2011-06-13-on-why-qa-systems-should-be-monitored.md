@@ -8,7 +8,7 @@ tags:
 - QA
 tumblr_url: http://www.buildscientist.com/post/6514582536/on-why-qa-systems-should-be-monitored
 ---
-###Generally when it comes to monitoring systems most shops typically focus on monitoring production class/grade boxes. 
+### Generally when it comes to monitoring systems most shops typically focus on monitoring production class/grade boxes. 
 
 When it comes to QA systems on the other hand that’s something rarely done - or at least something I have seen rarely done.
 There are a number of compelling reasons why QA systems should  be monitored. It may seem a bit overkill but depending on the complexity of your application/system architecture it’s something that will provide peace of mind for your development, QA and operations teams. 

@@ -5,7 +5,7 @@ date: '2015-06-02T14:25:09-07:00'
 tags: []
 tumblr_url: http://www.buildscientist.com/post/120556099311/on-object-oriented-dragons-and-improving-my
 ---
-###I’ve been meaning to write this post for a while now even though it’s been 2 years since I’ve completed my Masters in Software Engineering. 
+### I’ve been meaning to write this post for a while now even though it’s been 2 years since I’ve completed my Masters in Software Engineering. 
 
 Those of you who follow me on Twitter may have seen a number of tweets related to my graduate career. You’ll need to understand a little more about my technical background to learn why I decided to undertake this fairly arduous effort. 
 

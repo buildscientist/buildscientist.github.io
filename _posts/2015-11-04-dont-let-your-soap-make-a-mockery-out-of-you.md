@@ -5,7 +5,7 @@ date: '2015-11-04T19:00:00-08:00'
 tags: []
 ---
 
-###Recently as part of my day job I was tasked with helping test a small SOAP based web service that a colleague of mine had written. 
+### Recently as part of my day job I was tasked with helping test a small SOAP based web service that a colleague of mine had written. 
 
 You might be thinking - what sort of *personal* **hell** was the Buildscientist put through in having to deal with a SOAP (small or not) web service. Allow me to digress from the main topic of this post. 
 

@@ -4,15 +4,21 @@ meta_description: "buildscientist,software engineering,devops"
 
 aboutPage: true
 
-markdown: redcarpet
-highlighter: pygments
-
+markdown: kramdown
+highlighter: rouge
+timezone: America/Vancouver
+encoding: utf-8
 paginate: 20
 baseurl: /
 domain_name: 'http://buildscientist.com'
 google_analytics: 'UA-63689884-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
+
+gems: [jekyll-paginate,jekyll-gist,jekyll-watch]
+
+kramdown:
+  input: GFM
 
 # Details for the RSS feed generator
 url:            'http://buildscientist.com'
