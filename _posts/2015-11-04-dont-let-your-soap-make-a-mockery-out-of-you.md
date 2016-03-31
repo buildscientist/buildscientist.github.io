@@ -29,9 +29,9 @@ Creating a basic WireMock service that will return "Hello World" is a easy as fo
 
 {% gist 484751422cbf1fc79b71 helloworld.java %}
 
-Notice how the call to stubFor() on line 3 uses the builder pattern to complete creation of the web service. WireMock exposes a boat load of HTTP specific handlers that will allow to craft what type of HTTP response to return as well as the type of response to expect. 
+Notice how the call to stubFor() on line 3 uses the builder pattern to complete creation of the web service. WireMock exposes a boat load of HTTP specific handlers that will allow you to craft what type of HTTP response to return as well as the type of response to expect. 
 
-Since I am unable to share my employers code I decided to create a demo of WireMock that mocked a public SOAP webservice available on W3Schools. The [TempConvert](http://www.w3schools.com/webservices/tempconvert.asmx) SOAP service does two basic things: 
+Since I am unable to share my employers code I decided to create a demo of WireMock that mocked a public SOAP webservice available on W3Schools. The [TempConvert](http://www.w3schools.com/xml/tempconvert.asmx) SOAP service does two basic things: 
 
 - Converts Celcius to Farenheit
 - Converts Farenheit to Celcius
