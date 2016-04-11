@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Implementing DBCM Part II
+title: Make your DBCM woes flyway
 date: 
 tags: [dbcm,flyway]
 ---
@@ -107,7 +107,7 @@ For more details on other Flyway Maven plugin goals - see the Flyway [documentat
 
 ##### Integrating Flyway with Jenkins:
 
-As stated in the Technical Requirements portion of this post - you'll need to have the latest version of Jenkins installed as well as the Jenkins Pipeline plugin and the Conditional Buildstep Plugin. Exposing Flyway using Jenkins might seem a bit strange (read: *hacky*) at first but if you're practicing continuous integration you'll want to integrate Flyway with your builds. Either way Jenkins provides us with a relatively trivial way of setting up a web based form to apply DBCM across a database. 
+As stated in the Technical Requirements portion of this post - you'll need to have the latest version of Jenkins installed and the Conditional Buildstep Plugin. Depending on your version control engine (you are version controlling your patch files right?) you'll need to have the appropriate Jenkins plugin installed.  Exposing Flyway using Jenkins might seem a bit strange (read: *hacky*) at first but if you're practicing continuous integration you'll want to integrate Flyway with your builds. Either way Jenkins provides us with a relatively trivial way of setting up a web based form to apply DBCM across a database. 
 
 As an added bonus you get the following for "free": 
 
@@ -115,3 +115,7 @@ As an added bonus you get the following for "free":
 * Authentication 
 * Logging
 * Access Control
+
+---
+On a running instance of Jenkins make sure you have all the aforementioned plugins installed. I have supplied the job configuration in the flyway-demo GitHub repo which includes a standard Jenkins job.xml that you can import into Jenkins to get started. 
+
